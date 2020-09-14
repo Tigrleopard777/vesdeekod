@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/vesdeekod/static/js/main.0d6391de.chunk.js",
+    "main.js.map": "/vesdeekod/static/js/main.0d6391de.chunk.js.map",
+    "runtime-main.js": "/vesdeekod/static/js/runtime-main.dc63fe26.js",
+    "runtime-main.js.map": "/vesdeekod/static/js/runtime-main.dc63fe26.js.map",
+    "static/css/2.09e62520.chunk.css": "/vesdeekod/static/css/2.09e62520.chunk.css",
+    "static/js/2.dcd3563a.chunk.js": "/vesdeekod/static/js/2.dcd3563a.chunk.js",
+    "static/js/2.dcd3563a.chunk.js.map": "/vesdeekod/static/js/2.dcd3563a.chunk.js.map",
+    "index.html": "/vesdeekod/index.html",
+    "precache-manifest.3250ff59b5efaa62224423d5ec6f5e2f.js": "/vesdeekod/precache-manifest.3250ff59b5efaa62224423d5ec6f5e2f.js",
+    "service-worker.js": "/vesdeekod/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/vesdeekod/static/css/2.09e62520.chunk.css.map",
+    "static/js/2.dcd3563a.chunk.js.LICENSE.txt": "/vesdeekod/static/js/2.dcd3563a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc63fe26.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.dcd3563a.chunk.js",
+    "static/js/main.0d6391de.chunk.js"
+  ]
+}
